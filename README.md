@@ -1,4 +1,4 @@
-# Analysis
+# Manufacture Analytics
 # Manufacturing Unit Dashboard Analysis Report
 
 ## Executive Summary
